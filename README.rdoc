@@ -1,3 +1,13 @@
 == Project: Re-Former
 
 Forms Project in The Odin Project's Ruby on Rails Curriculum. Find it at http://www.theodinproject.com/ruby-on-rails/forms
+
+Objectives:
+
+* Create user model.
+* Add validations to the model.
+* Create users controller with new and create actions.
+* Add form to new.html.erb
+* Check in the rails console whether controller is working properly and actually creates users.
+* Update routes and controller for editing users.
+* Show error messages upon failed user create/update action.
